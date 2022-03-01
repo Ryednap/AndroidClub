@@ -7,19 +7,19 @@ Simple State management, we use provider to push a bookName, author, price and 3
 #### Component 1
 
 <div>
-	<img src ="./extras/comp1.jpeg" height="300" width="550" alt="comp1" >
+	<img src ="./extras/comp1.jpeg" height="300" alt="comp1" >
 </div>
 
 #### Component 2
 
 <div>
-	<img src ="./extras/comp2.jpeg" height="300" width="550" alt="comp2" >
+	<img src ="./extras/comp2.jpeg" height="300" alt="comp2" >
 </div>
 
 #### Componet3
 
 <div>
-	<img src ="./extras/comp3.jpeg" height="300" width="550" alt="comp3" >
+	<img src ="./extras/comp3.jpeg" height="300" alt="comp3" >
 </div>
 
 
